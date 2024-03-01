@@ -1,0 +1,38 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-family: "Nexa", sans-serif;
+  color: #5f259f;
+}
+
+.description {
+  font-family: "Nexa", sans-serif;
+  color: #5f259f;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.custom-button {
+  background-color: #5f259f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-family: "Nexa", sans-serif;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.custom-button:hover {
+  background-color: #4c1b7d;
+}
